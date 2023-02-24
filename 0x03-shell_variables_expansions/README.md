@@ -1,1 +1,1 @@
- Shell, init files, variables and expansions task
+shell and variables expensions
