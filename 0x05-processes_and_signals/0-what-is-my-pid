@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-#Script that print my pid 
+# my pid
 
-echo $$
+sleep 5 &
+echo "$!"
